@@ -1,0 +1,1 @@
+Esta es una plantilla para trabajar con sass de una manera mas facil, es una hoja en blanco para empezar a trabajar
